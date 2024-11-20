@@ -26,7 +26,7 @@ In this game:
 
 3. **Clone the Repository**:
     ```bash
-    git clone githubrepolin.git
+    git clone https://github.com/chaitanya44444/golf-game.git
     ```
 
 4. **Run the Game**:
